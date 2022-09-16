@@ -1,5 +1,5 @@
 # Table of contents
 
-## Group 1
+## 🥑 Elasticsearch Cookbook
 
-* [Page 2](README.md)
+* [🧐 1. 시작하기](README.md)
